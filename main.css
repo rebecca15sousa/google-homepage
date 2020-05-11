@@ -15,9 +15,20 @@
 
 ul {
     list-style-type: none;
-    float: right;
 }
 
 li {
     display: inline;
+}
+
+.foot {
+    position: fixed;
+    bottom: 0;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+    padding: 10px;
+}
+
+.right {
+    float: right;
 }
