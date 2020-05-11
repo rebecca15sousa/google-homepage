@@ -1,6 +1,7 @@
 .logo {
     display: block;
     margin: auto;
+    padding-top: 150px;
 }
 
 .search {
@@ -21,9 +22,19 @@ li {
     display: inline;
 }
 
-.foot {
+.foot1 {
+    position: fixed;
+    bottom: 35px;
+    width: 100%;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+    padding: 10px;
+}
+
+.foot2 {
     position: fixed;
     bottom: 0;
+    width: 100%;
     border: 1px solid #e7e7e7;
     background-color: #f3f3f3;
     padding: 10px;
