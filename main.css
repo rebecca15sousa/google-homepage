@@ -5,9 +5,19 @@
 
 .search {
     display: block;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .buttons {
     text-align: center;
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    float: right;
+}
+
+li {
+    display: inline;
 }
