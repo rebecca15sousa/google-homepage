@@ -1,5 +1,8 @@
+.content {
+    text-align: center;
+}
+
 .logo {
-    display: block;
     margin: auto;
     padding-top: 150px;
 }
@@ -12,6 +15,10 @@
 .buttons {
     text-align: center;
     margin: 20px;
+}
+
+.navig {
+    padding: 10px;
 }
 
 ul {
@@ -42,4 +49,5 @@ li {
 
 .right {
     float: right;
+    margin-right: 10px;
 }
